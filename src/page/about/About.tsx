@@ -2,12 +2,12 @@ import React from 'react';
 const AboutUs: React.FC = () => {
   return (
 
-    <div className="container mx-auto p-20 ">
+    <div className="container mx-auto p-20 mb-28">
       <h1 className="text-4xl font-bold mb-4 text-right">درباره ما</h1>
       <div className="flex flex-col items-center">
         <div className="w-full p-4">
           <img
-            src="https://psdfa.com/wp-content/uploads/2023/06/shutterstock_275789651.jpg"
+            src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/d6dda724731681.563391e030c43.jpeg"
             alt="About Us"
             className="rounded-lg shadow-lg mx-auto"
           />
