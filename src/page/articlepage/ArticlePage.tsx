@@ -39,9 +39,7 @@ export default function ArticlePage() {
           <h1 className="text-lg mb-4 text-center">{article.title}</h1>
           <h2 className="text-lg mb-4 text-center">time:{article.time}</h2>
           <h3 className="text-lg mb-4 text-center">athor:{article.athor}</h3>
-          <p className="text-lg mb-4 text-center">
-            {article.description}
-          </p>
+          <p className="text-lg mb-4 text-center">{article.description} </p>
         </div>
       </div>
     </div>
