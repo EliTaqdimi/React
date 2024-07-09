@@ -1,0 +1,25 @@
+
+{
+  "servises": [
+    {"id":"1",
+      "title": "طراحی وبسایت",
+      "description": "طراحی و توسعه وبسایت‌های شخصی، شرکتی و اپلیکیشن‌های تحت وب با استفاده از تکنولوژی‌های روز دنیا.",
+      "imageUrl": "https://files.virgool.io/upload/users/16103/posts/xwgg5qw3fr1x/gcbpjdxnsln2.png"
+    },
+    {"id":"2",
+      "title": "طراحی برندینگ",
+      "description": "طراحی لوگو، کارت ویزیت، بروشور و سایر متعلقات برند برای ارتقای شناخت و اعتبار برند.",
+      "imageUrl": "https://didar.me/wp-content/uploads/2022/03/brand-design-definition.jpg"
+    },
+    {"id":"3",
+      "title": "مدیریت شبکه",
+      "description": "راهکارهای کامل مدیریت و بهینه‌سازی شبکه‌های کامپیوتری برای شرکت‌ها و سازمان‌ها.",
+      "imageUrl": "https://network.ir.center/wp-content/uploads/2019/04/%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA-%D8%B4%D8%A8%DA%A9%D9%87-%D9%87%D8%A7%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1%DB%8C.png"
+    },
+    {"id":"4",
+      "title": "توسعه نرم‌افزار",
+      "description": "توسعه نرم‌افزارهای سفارشی برای انواع نیازهای کسب و کار با استفاده از بهترین روش‌ها و فریم‌ورک‌ها.",
+      "imageUrl": "https://akamnet.com/blog/wp-content/uploads/2022/11/akam1-2.webp"
+    }
+    ]
+  }

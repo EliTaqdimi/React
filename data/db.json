@@ -1,0 +1,76 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "title": " مقاله ۱",
+      "time": "1",
+      "athor": "?",
+      "description": "این یک توضیح کوتاه برای مقاله ۱ است.",
+      "imageUrl": "https://images.ctfassets.net/hrltx12pl8hq/3Z1N8LpxtXNQhBD5EnIg8X/975e2497dc598bb64fde390592ae1133/spring-images-min.jpg"
+    },
+    {
+      "id": "2",
+      "title": " مقاله 2",
+      "time": "2",
+      "athor": "?",
+      "description": "این یک توضیح کوتاه برای مقاله 2 است.",
+      "imageUrl": "https://img.freepik.com/free-photo/autumn-season-brings-bright-yellow-multi-colored-leaves-generative-ai_188544-12676.jpg"
+    },
+    {
+      "id": "3",
+      "title": " مقاله 3",
+      "time": "3",
+      "athor": "?",
+      "description": "این یک توضیح کوتاه برای مقاله 3 است.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN_f12tGoJAQRS0N0oI0l1OG404NmPNWLMfi8V-rOlwSkT0wLx4jWXwUfFIfOEeDnLOyo&usqp=CAU"
+    },
+    {
+      "id": "4",
+      "title": " مقاله 4",
+      "time": "4",
+      "athor": "?",
+      "description": "این یک توضیح کوتاه برای مقاله 4 است.",
+      "imageUrl": "https://img.freepik.com/free-photo/abstract-backdrop-ink-watercolor-creates-vibrant-grunge-design-generated-by-ai_188544-15563.jpg"
+    },
+    {
+      "id": "5",
+      "title": " مقاله 5",
+      "time": "5",
+      "athor": "?",
+      "description": "این یک توضیح کوتاه برای مقاله 5 است.",
+      "imageUrl": "https://images.ctfassets.net/hrltx12pl8hq/3Z1N8LpxtXNQhBD5EnIg8X/975e2497dc598bb64fde390592ae1133/spring-images-min.jpg"
+    },
+    {
+      "id": "6",
+      "title": " مقاله 6",
+      "time": "6",
+      "athor": "?",
+      "description": "این یک توضیح کوتاه برای مقاله 6 است.",
+      "imageUrl": "https://img.freepik.com/free-photo/autumn-season-brings-bright-yellow-multi-colored-leaves-generative-ai_188544-12676.jpg"
+    },
+    {
+      "id": "7",
+      "title": " 7مقاله",
+      "time": "7",
+      "athor": "?",
+      "description": "این یک توضیح کوتاه برای مقاله 7 است.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN_f12tGoJAQRS0N0oI0l1OG404NmPNWLMfi8V-rOlwSkT0wLx4jWXwUfFIfOEeDnLOyo&usqp=CAU"
+    },
+    {
+      "id": "8",
+      "title": " مقاله 8",
+      "time": "8",
+      "athor": "?",
+      "description": "این یک توضیح کوتاه برای مقاله 8 است.",
+      "imageUrl": "https://img.freepik.com/free-photo/abstract-backdrop-ink-watercolor-creates-vibrant-grunge-design-generated-by-ai_188544-15563.jpg"
+    },
+    {
+      "id": "9f6b",
+      "title": "مقاله 9",
+      "time": "33",
+      "author": "؟",
+      "message": "",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.Oi0YSY_cSXoYUukCuPT6BQHaFM&pid=Api&P=0&h=180"
+    }
+  ]
+}
